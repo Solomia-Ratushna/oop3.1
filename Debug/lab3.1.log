@@ -1,0 +1,5 @@
+﻿  Pair.cpp
+  Rational.cpp
+  Generating Code...
+C:\Users\ADMIN\Desktop\lab3.1\lab3.1\Rational.cpp(77): warning C4715: 'Rational::ComparePairs': not all control paths return a value
+  lab3.1.vcxproj -> C:\Users\ADMIN\Desktop\lab3.1\lab3.1\Debug\lab3.1.exe
